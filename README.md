@@ -3,8 +3,8 @@
 
 ### Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Vitor Figueiredo
+* Eric Alves
+* Victor Piccoli
+* Lucas Gomes
+* Matheus França
