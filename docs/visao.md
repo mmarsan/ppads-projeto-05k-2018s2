@@ -10,7 +10,7 @@
 
 ## Como as pessoas/empresas vão usar este software?
 
-1. Os empregados deverao fazer cadastro na aplicação web. Após o cadastro o usuari
+1. Os empregados deverao fazer cadastro na aplicação web. Após o cadastro o usuario efetuar o cadastro, o sistema apresentara a tela do perfil do usuario, onde elke
 1. Auxiliar as pessoas que fazem o uso da aplicação a se organizar com tarefas cotidianas e ate mesmo com tarefas dentro da empresa. 
 1. 
 1. 
