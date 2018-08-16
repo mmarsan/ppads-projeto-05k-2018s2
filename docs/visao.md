@@ -15,8 +15,7 @@
 1. Enquanto a checklist esta em uso, o usuario tem a opção de alterar a terefa, adicionar novas tarefas e ate mesmo extender o tempo da atividade.
 1. Quando o usuario concluir uma tarefa do seu dia, ele marca como "concluida" e ela ficara verde.
 1. O usuario tera a opção de "remover" ou "guardar" a lista apos a conclusão dela.
-1. 
-1. 
+
 1. etc.
 
 ## Quais linguagens/tecnologias serão utilizadas para implementar este software?
