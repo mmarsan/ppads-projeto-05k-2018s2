@@ -10,11 +10,11 @@
 
 ## Como as pessoas/empresas vão usar este software?
 
-1. Os empregados deverao fazer cadastro na aplicação web. Após o cadastro o usuario efetuar o cadastro, o sistema apresentara a tela do perfil do usuario, onde elke
-1. Auxiliar as pessoas que fazem o uso da aplicação a se organizar com tarefas cotidianas e ate mesmo com tarefas dentro da empresa. 
-1. 
-1. 
-1. 
+1. Os empregados deverao fazer cadastro na aplicação web. Após o cadastro, o sistema apresentara a tela do perfil do usuario, onde ele podera iniciar uma uma  nova lista de afazeres ou remover uma.
+1. Apos abrir a aba, o usuario podera adicionar tarefas (sem limites). Cada tarefa tera um tempo de duração q sera definido pelo usuario. Faltando 10min para o termino o sistema envia um alert. Quando o tempo da tarefa se esgotar, ela ficara vermelha (não realizada).
+1. Enquanto a checklist esta em uso, o usuario tem a opção de alterar a terefa, adicionar novas tarefas e ate mesmo extender o tempo da atividade.
+1. Quando o usuario concluir uma tarefa do seu dia, ele marca como "concluida" e ela ficara verde.
+1. O usuario tera a opção de "remover" ou "guardar" a lista apos a conclusão dela.
 1. 
 1. 
 1. etc.
