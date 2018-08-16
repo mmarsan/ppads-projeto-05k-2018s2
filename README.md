@@ -3,8 +3,6 @@
 
 ### Integrantes do grupo:
 
-* Vitor Figueiredo
-* Eric Alves
 * Victor Piccoli
 * Lucas Gomes
 * Matheus França
