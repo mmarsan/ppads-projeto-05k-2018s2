@@ -10,7 +10,7 @@
 
 ## Como as pessoas/empresas vão usar este software?
  
-1. Os usuario deve fazer cadastro na aplicação web, caso ja tenha feito o usuario apenas fara o login.
+1. O usuario deve fazer cadastro na aplicação web, caso ja tenha feito o usuario apenas fara o login.
 1. No cadastro, o sistema solicitara algumas informações sobre o usuario como por exemplo, email, nome, data de nascimento, sexo, endereço e etc. Apos fornecer as informações o usuario devera concordar com alguns termos da aplicação.
 1. Após o cadastro, o sistema apresentara a tela do perfil do usuario, onde ele podera iniciar uma uma  nova lista de afazeres ou remover uma.
 1. Apos abrir a aba, o usuario podera adicionar tarefas (sem limites). Cada tarefa tera um tempo de duração q sera definido pelo usuario. Faltando 10min para o termino o sistema envia um alert. Quando o tempo da tarefa se esgotar, ela ficara vermelha (não realizada).
