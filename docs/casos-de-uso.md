@@ -19,6 +19,10 @@ Fluxo Principal
   6. apos a confirmação do usuario, o sistema exibe a lista com todas as tarefas registradas pelo usuario e o tempo de cada tarefa começa   a ser decrementado.
   
 
-## CDU003
-
-### Fluxo principal
+## CDU003 - Alterar Lista
+Fluxo Principal
+  1. apos a criação da lista (CDU002), o sistema apresentara a lista com a opção de "editar lista"
+  2. usario pressiona o botão "editar lista".
+  3. sistema mostra a lista para ser editada como por exemplo, alteração de tarefas ou tempo, e adição de novas tarefas.
+  4. usuario realiza todas as alterações que deseja e pressiona o botão "confirmar".
+  5. sistema valida as informações e apresenta a nova lista.
