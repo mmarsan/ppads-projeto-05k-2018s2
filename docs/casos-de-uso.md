@@ -1,15 +1,6 @@
 # Casos de uso
 
-## CDU001 - Login
-Fluxo Principal
-  1. usuario pressiona o botão "login"
-  2. sistema apresenta a tela de login, solicitando os dados ja cadastrados pelo usuário (email e senha)
-  3. usuario insere os dados e pressiona o botão "confirmar"
-  4. sistema valida os dados do usuario
-  5. sistema exibe a pagina do perfil do usuario os dados e as listas.
-  
-
-## CDU002 - Criar Nova Lista de Tarefas
+## CDU001 - Criar Nova Lista de Tarefas
 Fluxo Principal
   1. usuario pressiona o botão "criar nova lista" em seu perfil
   2. sistema solicita o nome que o usuario deseja dar a lista e o tempo de duração.
@@ -19,10 +10,20 @@ Fluxo Principal
   6. apos a confirmação do usuario, o sistema exibe a lista com todas as tarefas registradas pelo usuario e o tempo de cada tarefa começa   a ser decrementado.
   
 
-## CDU003 - Alterar Lista
+## CDU002 - Alterar Lista
 Fluxo Principal
   1. apos a criação da lista (CDU002), o sistema apresentara a lista com a opção de "editar lista"
   2. usario pressiona o botão "editar lista".
   3. sistema mostra a lista para ser editada como por exemplo, alteração de tarefas ou tempo, e adição de novas tarefas.
   4. usuario realiza todas as alterações que deseja e pressiona o botão "confirmar".
   5. sistema valida as informações e apresenta a nova lista.
+  
+## CDU003 - Remover Lista
+ Fluxo Principal
+  1. apos o termino da lista (todas as tarefas concluidas/ tempo da lista esgotado), o sistema finaliza a lista.
+  2. depois de finalizar a lista, o sistema manda o usuario para a pagina inicial (perfil do usuario), e la estara a lista que ja foi 
+  finalizada pelo usuario, com a mensagem "a lista foi finalizada as (horario e data).
+  3. o usuario tera a opção de remover a lista ou deixar ela em seu perfil.
+  4. caso o usuario queira deixar em seu perfil, ele deve pressionar a opção 'salvar', caso queira remover ele deve pressionar a opção 
+  'remover'.
+  5. depois de escolher a opção 'remover' o sistema apaga a lista do perfil, e exibe um botão '+ criar nova lista' (CDU001)
