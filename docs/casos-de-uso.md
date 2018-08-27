@@ -22,7 +22,7 @@ Fluxo Principal
  Fluxo Principal
   1. apos o termino da lista (todas as tarefas concluidas/ tempo da lista esgotado), o sistema finaliza a lista.
   2. depois de finalizar a lista, o sistema manda o usuario para a pagina inicial (perfil do usuario), e la estara a lista que ja foi 
-  finalizada pelo usuario, com a mensagem "a lista foi finalizada as (horario e data).
+  finalizada pelo usuario, com a mensagem "a lista foi finalizada as (horario e data)".
   3. o usuario tera a opção de remover a lista ou deixar ela em seu perfil.
   4. caso o usuario queira deixar em seu perfil, ele deve pressionar a opção 'salvar', caso queira remover ele deve pressionar a opção 
   'remover'.
