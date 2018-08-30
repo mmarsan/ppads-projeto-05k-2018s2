@@ -17,7 +17,14 @@ Fluxo Principal
   3. sistema mostra a lista para ser editada como por exemplo, alteração de tarefas ou tempo, e adição de novas tarefas.
   4. usuario realiza todas as alterações que deseja e pressiona o botão "confirmar".
   5. sistema valida as informações e apresenta a nova lista.
-  
+
+Fluxo Alternativo
+  1. usuario solicita uma edição da lista
+  2. sistema exibe uma tela de confirmação da ação
+  3. usuario confirma a opção 'cancelar' 
+  4. sistema apresenta todas as listas 
+
+
 ## CDU003 - Remover Lista
  Fluxo Principal
   1. apos o termino da lista (todas as tarefas concluidas/ tempo da lista esgotado), o sistema finaliza a lista.
