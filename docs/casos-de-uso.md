@@ -8,6 +8,12 @@ Fluxo Principal
   4. usuario insere uma tarefa por vez, e apos inserir cada tarefa define um tempo limite para finalizar ela.
   5. apos o usuario inserir todas as tarefas, ele deve confirmar a lista.
   6. apos a confirmação do usuario, o sistema exibe a lista com todas as tarefas registradas pelo usuario e o tempo de cada tarefa começa   a ser decrementado.
+
+Fluxo Alternativo
+  1. usuário solicita a criação de uma nova lista
+  2. sistema apresenta tela para inclusão de nome e tempo de duração da lista
+  3. usuário seleciona a opção 'cancelar'
+  4. sistema encerra a criação de lista retornando à tela inicial
   
 
 ## CDU002 - Alterar Lista
